@@ -12,7 +12,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-with open("products.json", "r", encoding="utf-8") as file:
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+
+with open(BASE_DIR / "products.json", "r", encoding="utf-8") as file:
     products = json.load(file)
 
 
