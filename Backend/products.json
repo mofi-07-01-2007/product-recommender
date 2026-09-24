@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "category": "laptop",
+    "name": "Acer Aspire 5",
+    "brand": "Acer",
+    "price": 45999,
+    "ram": 8,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "category": "laptop",
+    "name": "Lenovo IdeaPad Slim 3",
+    "brand": "Lenovo",
+    "price": 48999,
+    "ram": 8,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "category": "laptop",
+    "name": "HP 15s",
+    "brand": "HP",
+    "price": 52999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "category": "laptop",
+    "name": "ASUS Vivobook 15",
+    "brand": "ASUS",
+    "price": 54999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "category": "laptop",
+    "name": "Acer Aspire 7",
+    "brand": "Acer",
+    "price": 57999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "AMD Ryzen 5",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "category": "laptop",
+    "name": "Lenovo IdeaPad Slim 5",
+    "brand": "Lenovo",
+    "price": 59999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "AMD Ryzen 5",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "category": "laptop",
+    "name": "HP Pavilion 14",
+    "brand": "HP",
+    "price": 62999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "category": "laptop",
+    "name": "ASUS Vivobook S14",
+    "brand": "ASUS",
+    "price": 67999,
+    "ram": 16,
+    "storage": "1TB SSD",
+    "processor": "Intel Core i5",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "category": "laptop",
+    "name": "Dell Inspiron 15",
+    "brand": "Dell",
+    "price": 69999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "Intel Core i7",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "category": "laptop",
+    "name": "Lenovo IdeaPad Gaming 3",
+    "brand": "Lenovo",
+    "price": 74999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "AMD Ryzen 5",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "category": "laptop",
+    "name": "HP Victus",
+    "brand": "HP",
+    "price": 79999,
+    "ram": 16,
+    "storage": "512GB SSD",
+    "processor": "AMD Ryzen 5",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "category": "laptop",
+    "name": "ASUS TUF Gaming F15",
+    "brand": "ASUS",
+    "price": 84999,
+    "ram": 32,
+    "storage": "1TB SSD",
+    "processor": "Intel Core i7",
+    "rating": 4.7
+  },
+
+  {
+    "id": 13,
+    "category": "earbuds",
+    "name": "OnePlus Buds 3",
+    "brand": "OnePlus",
+    "price": 4999,
+    "battery": 10,
+    "feature": "ANC",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "category": "earbuds",
+    "name": "Realme Buds Air 6",
+    "brand": "Realme",
+    "price": 3499,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "category": "earbuds",
+    "name": "Nothing Ear",
+    "brand": "Nothing",
+    "price": 7999,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "category": "earbuds",
+    "name": "Boat Airdopes 141",
+    "brand": "boAt",
+    "price": 1299,
+    "battery": 6,
+    "feature": "Low Latency",
+    "rating": 4.1
+  },
+  {
+    "id": 17,
+    "category": "earbuds",
+    "name": "JBL Wave Buds",
+    "brand": "JBL",
+    "price": 2999,
+    "battery": 8,
+    "feature": "Deep Bass",
+    "rating": 4.2
+  },
+  {
+    "id": 18,
+    "category": "earbuds",
+    "name": "Samsung Galaxy Buds FE",
+    "brand": "Samsung",
+    "price": 6999,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "category": "earbuds",
+    "name": "Sony WF-C700N",
+    "brand": "Sony",
+    "price": 8499,
+    "battery": 10,
+    "feature": "ANC",
+    "rating": 4.7
+  },
+  {
+    "id": 20,
+    "category": "earbuds",
+    "name": "Oppo Enco Air 3 Pro",
+    "brand": "Oppo",
+    "price": 4999,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.4
+  },
+  {
+    "id": 21,
+    "category": "earbuds",
+    "name": "Noise Buds X",
+    "brand": "Noise",
+    "price": 1999,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.0
+  },
+  {
+    "id": 22,
+    "category": "earbuds",
+    "name": "Sennheiser CX Plus",
+    "brand": "Sennheiser",
+    "price": 8999,
+    "battery": 8,
+    "feature": "ANC",
+    "rating": 4.6
+  },
+
+  {
+    "id": 23,
+    "category": "tv",
+    "name": "Samsung Crystal 4K",
+    "brand": "Samsung",
+    "price": 32999,
+    "screen_size": 43,
+    "resolution": "4K",
+    "rating": 4.4
+  },
+  {
+    "id": 24,
+    "category": "tv",
+    "name": "LG UHD Smart TV",
+    "brand": "LG",
+    "price": 35999,
+    "screen_size": 43,
+    "resolution": "4K",
+    "rating": 4.5
+  },
+  {
+    "id": 25,
+    "category": "tv",
+    "name": "TCL 4K Smart TV",
+    "brand": "TCL",
+    "price": 29999,
+    "screen_size": 43,
+    "resolution": "4K",
+    "rating": 4.2
+  },
+  {
+    "id": 26,
+    "category": "tv",
+    "name": "Sony Bravia 3",
+    "brand": "Sony",
+    "price": 54999,
+    "screen_size": 50,
+    "resolution": "4K",
+    "rating": 4.6
+  },
+  {
+    "id": 27,
+    "category": "tv",
+    "name": "Samsung Crystal 4K 50",
+    "brand": "Samsung",
+    "price": 44999,
+    "screen_size": 50,
+    "resolution": "4K",
+    "rating": 4.5
+  },
+  {
+    "id": 28,
+    "category": "tv",
+    "name": "LG QNED",
+    "brand": "LG",
+    "price": 64999,
+    "screen_size": 55,
+    "resolution": "4K",
+    "rating": 4.7
+  },
+  {
+    "id": 29,
+    "category": "tv",
+    "name": "Sony Bravia 2",
+    "brand": "Sony",
+    "price": 59999,
+    "screen_size": 55,
+    "resolution": "4K",
+    "rating": 4.6
+  },
+  {
+    "id": 30,
+    "category": "tv",
+    "name": "TCL C655",
+    "brand": "TCL",
+    "price": 41999,
+    "screen_size": 55,
+    "resolution": "4K",
+    "rating": 4.3
+  },
+  {
+    "id": 31,
+    "category": "tv",
+    "name": "Samsung QLED",
+    "brand": "Samsung",
+    "price": 69999,
+    "screen_size": 55,
+    "resolution": "QLED 4K",
+    "rating": 4.7
+  },
+  {
+    "id": 32,
+    "category": "tv",
+    "name": "LG OLED B4",
+    "brand": "LG",
+    "price": 99999,
+    "screen_size": 55,
+    "resolution": "OLED 4K",
+    "rating": 4.8
+  },
+
+  {
+    "id": 33,
+    "category": "ac",
+    "name": "LG 1 Ton Split AC",
+    "brand": "LG",
+    "price": 32999,
+    "tonnage": 1,
+    "inverter": "Inverter",
+    "rating": 4.3
+  },
+  {
+    "id": 34,
+    "category": "ac",
+    "name": "Voltas 1 Ton AC",
+    "brand": "Voltas",
+    "price": 29999,
+    "tonnage": 1,
+    "inverter": "Inverter",
+    "rating": 4.2
+  },
+  {
+    "id": 35,
+    "category": "ac",
+    "name": "Daikin 1 Ton AC",
+    "brand": "Daikin",
+    "price": 35999,
+    "tonnage": 1,
+    "inverter": "Inverter",
+    "rating": 4.5
+  },
+  {
+    "id": 36,
+    "category": "ac",
+    "name": "Samsung 1.5 Ton AC",
+    "brand": "Samsung",
+    "price": 39999,
+    "tonnage": 1.5,
+    "inverter": "Inverter",
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "category": "ac",
+    "name": "LG 1.5 Ton AC",
+    "brand": "LG",
+    "price": 42999,
+    "tonnage": 1.5,
+    "inverter": "Inverter",
+    "rating": 4.6
+  },
+  {
+    "id": 38,
+    "category": "ac",
+    "name": "Voltas 1.5 Ton AC",
+    "brand": "Voltas",
+    "price": 37999,
+    "tonnage": 1.5,
+    "inverter": "Inverter",
+    "rating": 4.3
+  },
+  {
+    "id": 39,
+    "category": "ac",
+    "name": "Daikin 1.5 Ton AC",
+    "brand": "Daikin",
+    "price": 45999,
+    "tonnage": 1.5,
+    "inverter": "Inverter",
+    "rating": 4.7
+  },
+  {
+    "id": 40,
+    "category": "ac",
+    "name": "Panasonic 1.5 Ton AC",
+    "brand": "Panasonic",
+    "price": 40999,
+    "tonnage": 1.5,
+    "inverter": "Inverter",
+    "rating": 4.4
+  },
+  {
+    "id": 41,
+    "category": "ac",
+    "name": "LG 2 Ton AC",
+    "brand": "LG",
+    "price": 54999,
+    "tonnage": 2,
+    "inverter": "Inverter",
+    "rating": 4.6
+  },
+  {
+    "id": 42,
+    "category": "ac",
+    "name": "Daikin 2 Ton AC",
+    "brand": "Daikin",
+    "price": 59999,
+    "tonnage": 2,
+    "inverter": "Inverter",
+    "rating": 4.7
+  }
+]
