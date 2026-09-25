@@ -13,12 +13,10 @@ app.add_middleware(
 )
 
 from pathlib import Path
-
 BASE_DIR = Path(__file__).resolve().parent
 
 with open(BASE_DIR / "products.json", "r", encoding="utf-8") as file:
     products = json.load(file)
-
 
 @app.get("/")
 def home():
